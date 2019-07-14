@@ -1,0 +1,34 @@
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\Cibertec\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\Cibertec\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\Cibertec\Cibertec.Models\obj\Debug\Cibertec.Models.csprojAssemblyReference.cache
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\Cibertec\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\Cibertec\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\Cibertec\Cibertec.Models\obj\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_1\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_1\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_1\Cibertec.Models\obj\Debug\Cibertec.Models.csprojAssemblyReference.cache
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_1\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_1\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_1\Cibertec.Models\obj\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_3\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_3\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_3\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_3\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_3\Cibertec.Models\obj\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_7\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_7\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+D:\CIBERTEC\vs2017web\Materiales\Capítulo 9\private\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.pdb
+G:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+G:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+G:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.csprojAssemblyReference.cache
+G:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+G:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+G:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.pdb
+E:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+E:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+E:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.csprojAssemblyReference.cache
+E:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+E:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+E:\VS NET 2017\CLASE 19\lab_7\Cibertec.Models\obj\Debug\Cibertec.Models.pdb
